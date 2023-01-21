@@ -7,7 +7,7 @@
 
 2. Then copy zms folder into the root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
-3.Open PhpMyAdmin (http://localhost/phpmyadmin)
+3. Open PhpMyAdmin (http://localhost/phpmyadmin)
 
 5. Create a database with name "zmsdb".
 
